@@ -19,6 +19,6 @@ interface SplittableCheckoutRequestAttributesValidatorPluginInterface
      * @return \Generated\Shared\Transfer\RestErrorCollectionTransfer
      */
     public function validateAttributes(
-        RestSplittableCheckoutRequestAttributesTransfer $splittableCheckoutRequestAttributesTransfer
+        RestSplittableCheckoutRequestAttributesTransfer $restSplittableCheckoutRequestAttributesTransfer
     ): RestErrorCollectionTransfer;
 }
