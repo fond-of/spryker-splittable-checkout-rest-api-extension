@@ -1,6 +1,6 @@
 <?php
 
-namespace FondOfSpryker\Glue\SplittableCheckoutRestApi\Dependency\Plugin;
+namespace FondOfSpryker\Glue\SplittableCheckoutRestApiExtension\Dependency\Plugin;
 
 use Generated\Shared\Transfer\RestErrorCollectionTransfer;
 use Generated\Shared\Transfer\RestSplittableCheckoutRequestAttributesTransfer;
